@@ -1,0 +1,15 @@
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryWindow.resources
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryView.resources
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.ScoreView.resources
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.TimerView.resources
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.Cache
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\Teamwork memory\Memory-git\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\opdrachten\opdracht-03-versiebeheer\opdracht-memory\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\opdrachten\opdracht-03-versiebeheer\opdracht-memory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Sarah\Documents\Sarah\MCT2\Software Engineering\opdrachten\opdracht-03-versiebeheer\opdracht-memory\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
